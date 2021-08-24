@@ -1,4 +1,4 @@
-This document lists important contents of standard Machine Learning topics & points to references where these are explained in detail.
+This document lists important contents of fundamental Machine Learning topics & points to references where these are explained in detail.
 
 **References**
 - 
