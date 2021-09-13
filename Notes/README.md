@@ -3,5 +3,4 @@
 2. Kernel Mean Embeddings by Feb '22
 3. Convex Optimization by Apr '22
 5. Learning Theory by Apr '22
-6. Reinforcement Learning by Apr '22
 7. Probabilistic Graphical Models (& probability) by July '22
