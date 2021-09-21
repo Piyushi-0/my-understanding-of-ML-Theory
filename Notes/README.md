@@ -1,6 +1,0 @@
-**This folder contains my notes on Machine Learning & related subjects.** I expect to update the first draft of these notes in the following order
-1. Machine Learning (& Linear Algebra) by Dec '21
-2. Kernel Mean Embeddings by Feb '22
-3. Convex Optimization by Apr '22
-5. Learning Theory by Apr '22
-7. Probabilistic Graphical Models (& probability) by July '22
