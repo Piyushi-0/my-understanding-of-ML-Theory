@@ -12,7 +12,7 @@ The following resources are curated by the author & these could be helpful to ML
 
 # Blogs 
 1. [Dr. Sanjeev Arora's blog](http://www.offconvex.org/) 
-2. [Dr. Francis Bach's blog](https://francisbach.com/) **Do checkout his new book on Learning Theory!**
+2. [Dr. Francis Bach's blog](https://francisbach.com/) **Do check his new book on Learning Theory from First Principles!**
 3. [Dr. Sebastian Bubeck's blog](https://blogs.princeton.edu/imabandit/)
 4. [Dr. Shakir Mohammed's blog](http://blog.shakirm.com/ml-series/trick-of-the-day/)
 5. [OPTIMAL lab's blog](https://parameterfree.com/)
