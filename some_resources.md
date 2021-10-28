@@ -10,9 +10,6 @@ The following resources are curated by the author & these could be helpful to ML
 5. [Gaussian Process summer school](https://www.youtube.com/channel/UCQITXIAgtKlUdfBVhAmTRQA)
 6. Dr Shakir Mohammed's [Taking the Probabilistic Path](https://www.youtube.com/watch?v=KmH1FW2ipGc)
 
-# Articles
-1. [The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
-
 # Blogs 
 1. [Dr. Sanjeev Arora's blog](http://www.offconvex.org/) 
 2. [Dr. Francis Bach's blog](https://francisbach.com/) **Do check his new book on Learning Theory from First Principles!**
@@ -30,4 +27,5 @@ The following resources are curated by the author & these could be helpful to ML
 
 # Few others
 1. [Mathematics of ML book](https://mml-book.github.io/)
-2. An interactive ML [book](https://mlweb.loria.fr/book/en/contents.html) (it's a WIP)
+2. [The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
+3. An interactive ML [book](https://mlweb.loria.fr/book/en/contents.html) (it's a WIP)
