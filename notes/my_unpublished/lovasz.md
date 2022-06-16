@@ -14,15 +14,16 @@ x_3\\
 \end{pmatrix}
 $$
 
-with the entries such that $x_2>x_0>x_3>x_1$, where each $0 \leq x_i \leq 1$
+with the entries such that 
+$x_2>x_0>x_3>x_1$
+, where each 
+$0 \leq x_i \leq 1$
 
 The Lovasz Extension at $\mathbf{x}$ is defined as 
 $L(\mathbf{x}) =(1-x_2)f(\mathbf{I_0})+(x_2-x_0)f(\mathbf{I}_1)+(x_0-x_3)f(\mathbf{I}_2)+(x_3-x_1)f(\mathbf{I}_3)+(x_1-0)f(\mathbf{I}_4)$
 
-such that, $$ \mathbf{I}_0 = \mathbf{0}_n $$ 
-
-
-$ \mathbf{I}_{i} = \mathbf{I}_{i-1}+\mathbf{v}_{\pi(i)}; 0 \le i \le n $
+such that, 
+$ \mathbf{I}_0 = \mathbf{0}_n $ and $\mathbf{I}_{i}=\mathbf{I}_{i-1}+\mathbf{v}_{\pi(i)}; 0 \le i \le n $
 
 where $\mathbf{v}_{\pi(i)}$ 
 is the vector with 1 at position $\pi(i)$ and 0 everywhere else.
