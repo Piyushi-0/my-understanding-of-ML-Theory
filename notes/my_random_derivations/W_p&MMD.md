@@ -12,6 +12,8 @@ where
  $d_{min}=\min_{x\neq x'} \rho c(x, x')$. Here $c$ is a ground metric
 and $\rho\in \mathbb{R}^{++}$ is chosen such that $d_{min}>2$. Note that $\rho c$ is our new cost metric.
 
-The last inequality comes from equation (7) in [On Choosing and Bounding Probability Metrics](https://arxiv.org/pdf/math/0209021.pdf).
+The last inequality comes from the relation shown in equation (7) of [On Choosing and Bounding Probability Metrics](https://arxiv.org/pdf/math/0209021.pdf). Note that this holds true only for a bounded metric space.
+
+As remarked by Villani's classical OT book, $W_p \geq W_1$ for $p\geq 1$ which implies that the above inequality holds for $W_p$ also.
 
 *Potential applications: in some MMD-regularized OT loss...*
