@@ -1,0 +1,1 @@
+<a href="https://drive.google.com/file/d/1sPslruwTXlcel-n3OU5lw9UDTKkKSmBH/view?usp=sharing">Proof that origin in the weight space is a stationary point when the activation function used is tanh</a>

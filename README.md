@@ -1,5 +1,4 @@
-I link my important theoretical derivations(of std problems) and my paper presentations here.
-<ol>
-<li> <a href="https://drive.google.com/file/d/1w1nkudMah4FeqjsWVEOHorkfI1Dy3tbu/view?usp=sharing">Stochastic Average Gradient presentation</a>
-<li> <a href="https://drive.google.com/file/d/1sPslruwTXlcel-n3OU5lw9UDTKkKSmBH/view?usp=sharing">Proof that origin in the weight space is a stationary point when the activation function used is tanh</a>
-</ol>
+What's Included:
+- [Extended derivations from papers.](./from_papers)
+- [My random derivations.](./my_random_derivations)
+- [Playing with some classics.](./some_classics)
