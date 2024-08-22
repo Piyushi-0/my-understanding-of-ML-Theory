@@ -7,6 +7,8 @@
 
 - [ ] Restart (1), (2), (3).
 
+0. Exercises "Statistical OT"
 1. Beck's "First Order Methods in Optimization"
 2. Bach's "Learning Theory from First Principles"
 3. Hazan's "Introduction to Online Convex Optimization"
+4. Chaps 1-5 Exercises "Probability Theory and Examples" by Rick Durrett
