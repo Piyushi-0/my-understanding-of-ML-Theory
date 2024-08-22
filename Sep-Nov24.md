@@ -4,3 +4,9 @@
 - [ ] [A class of Wasserstein metrics for probability distributions](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-31/issue-2/A-class-of-Wasserstein-metrics-for-probability-distributions/10.1307/mmj/1029003026.full)
 - [ ] [Stochastic Optimization for Large-scale Optimal Transport](https://arxiv.org/pdf/1605.08527)
 - [ ] [Stochastic Optimization for Regularized Wasserstein Estimators](https://arxiv.org/pdf/2002.08695)
+
+- [ ] Restart (1), (2), (3).
+
+1. Beck's "First Order Methods in Optimization"
+2. Bach's "Learning Theory from First Principles"
+3. Hazan's "Introduction to Online Convex Optimization"
