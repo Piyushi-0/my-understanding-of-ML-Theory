@@ -1,1 +1,0 @@
-<a href="https://drive.google.com/file/d/1w1nkudMah4FeqjsWVEOHorkfI1Dy3tbu/view?usp=sharing">Stochastic Average Gradient presentation</a>
